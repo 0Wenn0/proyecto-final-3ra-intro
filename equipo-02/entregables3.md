@@ -21,3 +21,6 @@ Muchas gracias por su apoyo y su paciencia
 No se olviden de subir en su carpeta grupal en Github los códigos para el proyetco final que han escrito cada miembro del grupo.
 
 [carouseactl.zip](https://github.com/0Wenn0/proyecto-final-3ra-intro/files/7542337/carouseactl.zip)
+
+Adjunto lo que hemos avanzado hasta el momento (Miércoles 17 de noviembre)   respecto a la obra de arte. 
+[carousel (1).zip](https://github.com/0Wenn0/proyecto-final-3ra-intro/files/7558148/carousel.1.zip)
