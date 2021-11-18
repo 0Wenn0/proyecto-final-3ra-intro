@@ -24,3 +24,5 @@ No se olviden de subir en su carpeta grupal en Github los códigos para el proye
 
 Adjunto lo que hemos avanzado hasta el momento (Miércoles 17 de noviembre)   respecto a la obra de arte. 
 [carousel (1).zip](https://github.com/0Wenn0/proyecto-final-3ra-intro/files/7558148/carousel.1.zip)
+
+Agrego la base sobre la que trabajaremos, el cerebro en "Vector" creado a partir de figuras individuales para que nos sea posible animarlo. Lo realicé en un archivo nuevo para que sea añadido a la página posteriormente, para poder trabajar más fácilmente. [Cerebro base.zip](https://github.com/0Wenn0/proyecto-final-3ra-intro/files/7566690/Cerebro.base.zip)
